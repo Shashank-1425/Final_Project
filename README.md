@@ -78,7 +78,6 @@ These baseline metrics reflect an initial LTV prediction model, which can be imp
 📍 **Final Project – Data Analyst Intern at Elevate Labs**
 🏁 Objective: Deliver actionable customer insights using LTV prediction to support marketing and growth strategies.
 
-## Author
-  **Shashank Mishra
+## Author - Shashank Mishra
 
 ---
